@@ -3,7 +3,7 @@ const { Server: HttpServer } = require('http');
 const { Server: IO } = require('socket.io');
 const { engine } = require('express-handlebars');
 const path = require('path');
-const ProductControler = require('../desafio6/controllers/productController');
+const ProductControler = require('./controllers/productController');
 const productClass = new ProductControler();
 
 //--------------------------------------------
