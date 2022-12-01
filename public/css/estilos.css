@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+}
+
+label {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.jumbotron {
+  min-height: 100vh;
+}
+
+.fecha {
+  color: #722626;
+}
+
+.texto-msj {
+  color: #00ff1e;
+  font-style: italic;
+}
+
+.productsImage {
+  max-width: 100px;
+  max-height: 100px;
+}
